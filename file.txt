@@ -1,2 +1,4 @@
 first line
 Paris is the capital of France
+Some new line
+Some new line2
