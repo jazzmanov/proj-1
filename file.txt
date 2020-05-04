@@ -1,4 +1,2 @@
 first line
-London is the capital of GB
-Moscow is the caputal of Russia
 Paris is the capital of France
